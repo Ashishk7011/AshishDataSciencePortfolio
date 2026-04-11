@@ -8,25 +8,36 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## Welcome to my Data Analyst Portfolio — 
-A collection of my work in data analysis, visualization, and insights generation.
+## Welcome to my Data Scientist Portfolio — 
+A collection of my work in data analysis, visualization, and insights generation and moving forward for data science and machine learning
 
-This website showcases my projects, dashboards, and analytical skills using tools like Python, SQL, Excel, Power BI and Machine Learning.
+This website showcases my projects and model development skills using tools like Python, Pandas, Machine Learning, AWS Sagemake, AWS EBS, AWS EC2, AWS CodePipeline, Docker, MLflow, DagsHub, 
+CI/CD    
 
 ## About This Project
-This portfolio is built to highlight:
-1. My data cleaning and transformation skills
 
-2. Exploratory data analysis (EDA) using Python & SQL
+This portfolio showcases:
 
-3. Interactive dashboards (Power BI / Tableau)
+1. End-to-end data science workflows including data collection, cleaning, and feature engineering
+2. Exploratory Data Analysis (EDA) and statistical insights using Python, SQL, and visualization techniques
+3. Machine Learning model development, evaluation, and optimization for real-world problems
+4. Deployment of data-driven solutions and interactive applications for decision-making
+5. Real-world projects demonstrating predictive modeling, business insights, and scalable solutions
 
-4. Real-world case studies and projects demonstrating decision-making through data
 
 ## Tools & Technologies
 
-Languages: Python, MySQL, DAX, Machine Learning, Streamlit, Jupyter Notebook
+Programming & Databases:
+Python, MySQL, SQL
 
-Visualization: Power BI,  Matplotlib, Seaborn
+Machine Learning & Data Science:
+Scikit-learn, Machine Learning, Model Evaluation, Feature Engineering, MLflow
 
-Data Handling: Pandas, Excel, Power Query 
+Visualization & BI Tools:
+Power BI, Tableau, Matplotlib, Seaborn
+
+Data Processing & Handling:
+Pandas, NumPy, EDA
+
+Development & Deployment:
+VS Code, Jupyter Notebook, Docker, GitHub, FastApi, Flask, AWS EC2, AWS EBS
