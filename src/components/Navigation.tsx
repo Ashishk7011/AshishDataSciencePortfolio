@@ -15,11 +15,11 @@ const Navigation = () => {
   }, []);
 
   const navLinks = [
-    { label: "Home", href: "/AshishPortfolio/#home" },
-    { label: "Skills", href: "/AshishPortfolio/#skills" },
-    { label: "Projects", href: "/AshishPortfolio/#projects" },
-    { label: "Experience", href: "/AshishPortfolio/#experience" },
-    { label: "Contact", href: "/AshishPortfolio/#contact" },
+    { label: "Home", href: "#home" },
+    { label: "Skills", href: "#skills" },
+    { label: "Projects", href: "#projects" },
+    { label: "Experience", href: "#experience" },
+    { label: "Contact", href: "#contact" },
   ];
 
   return (
@@ -31,7 +31,7 @@ const Navigation = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <a href="#home" className="text-xl font-bold">
-            <span className="text-gradient">Data Analyst Portfolio</span>
+            <span className="text-gradient">Data Scientist Portfolio</span>
           </a>
 
           {/* Desktop Navigation */}

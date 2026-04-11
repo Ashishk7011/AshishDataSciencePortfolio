@@ -1,4 +1,4 @@
-import { Card } from "@/Components/ui/card";
+import { Card } from "@/components/ui/card";
 import { Database, BarChart3, Code2, Brain, FileSpreadsheet, Cloud } from "lucide-react";
 
 const Skills = () => {

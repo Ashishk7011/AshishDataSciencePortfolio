@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Card } from "@/Components/ui/card";
+import { Card } from "@/components/ui/card";
 import { Mail, Linkedin, Github, Twitter } from "lucide-react";
 
 const Contact = () => {
