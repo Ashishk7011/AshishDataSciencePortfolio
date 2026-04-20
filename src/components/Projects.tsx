@@ -9,14 +9,14 @@ const Projects = () => {
       title: "Network Security Project with End To End ML Pipeline",
       description: "This repository contains my Network Security project focused on implementing an end-to-end machine learning pipeline for threat detection.",
       tags: ["Python", "Scikit-learn", "Pandas", "FastAPI", "Docker", "AWS", "DagsHub", "CI/CD"],
-      viewUrl: "Public/ML App Running On AWS EC2 Instance.png",
+      viewUrl: "/AshishDataSciencePortfolio/ML App Running On AWS EC2 Instance.png",
       codeUrl: "https://github.com/Ashishk7011/End_To_End_ML_Project_with_Deployement"
     },
     {
       title: "Student Performance Prediction with End To End ML Pipeline",
       description: "This repository contains my Student Performance Prediction project focused on implementing an end-to-end machine learning pipeline for performance analysis.",
       tags: ["Python", "Scikit-learn", "Pandas", "Flask", "Docker", "AWS EBS", "AWS CodePipeline", "CI/CD"],
-      viewUrl: "Public/EBS porject link predict page running.png",
+      viewUrl: "/AshishDataSciencePortfolio/EBS porject link predict page running.png",
       codeUrl: "https://github.com/Ashishk7011/Student_Performance_ML"
     },
     {
@@ -30,14 +30,14 @@ const Projects = () => {
       title: "ML Project with MLflow",
       description: "It involved developing and implementing machine learning algorithm including ensemble models with MLflow to track and compare experiments and metrics.",
       tags: ["Python", "Scikit-learn", "Pandas", "Regex"],
-      viewUrl: "Public/MLflow_UI_for_Balanced_Data.png",
+      viewUrl: "/AshishDataSciencePortfolio/MLflow_UI_for_Balanced_Data.png",
       codeUrl: "https://github.com/Ashishk7011/MLalgo_with_MLflow"
     },
     {
       title: "Hotel Detailed Report on Power BI",
       description: "It utilizes Power BI's advanced features to analyze sales data, trends, and advanced KPIs like RevPar, ADR, DSRN, DURN, Realisation & WoW Change % using DAX",
       tags: ["Power BI", "DAX", "Power Query"],
-      viewUrl: "Public/Power_BI_Hotel_Report.pdf",
+      viewUrl: "/AshishDataSciencePortfolio/Power_BI_Hotel_Report.pdf",
       codeUrl: "https://github.com/Ashishk7011/Hotels-Power-BI-Report"
     }
   ];
