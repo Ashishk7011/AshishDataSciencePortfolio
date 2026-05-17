@@ -4,6 +4,14 @@ import { ExternalLink, Github } from "lucide-react";
 
 const Projects = () => {
   const projects = [
+    {
+  title: "Advanced RAG System with LangChain, LangGraph, and Streamlit",
+  description:
+    "A production-ready Retrieval Augmented Generation (RAG) application featuring LangChain, LangGraph, Streamlit, hybrid retrieval, source citations, and support for both OpenAI and Ollama local models.",
+  tags: ["Python","LangChain","LangGraph","Streamlit","ChromaDB","BM25","OpenAI","Ollama","RAG"],
+  viewUrl: "/AshishDataSciencePortfolio/Rag_App_on_Streamlit.png",
+  codeUrl: "https://github.com/Ashishk7011/End_to_End_RAG_APP"
+  },
 
     {
       title: "Network Security Project with End To End ML Pipeline",
