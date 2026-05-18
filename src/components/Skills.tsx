@@ -26,7 +26,7 @@ const Skills = () => {
     {
       icon: FileSpreadsheet,
       title: "Tools & Platforms",
-      skills: ["Ms Excel", "VS Code", "Jupyter", "MLflow", "DagsHub", "Docker", "FastAPI", "Flask", "GitHub", "Streamlit", "DVC", "MLflow", "DagsHub"],
+      skills: ["Ms Excel", "VS Code", "Jupyter", "MLflow", "DagsHub", "Docker", "FastAPI", "Flask", "GitHub", "Streamlit", "DVC", "MLflow", "DagsHub", "Python", "LangChain", "LangGraph", "Streamlit", "ChromaDB", "BM25", "ChromaDB", "OpenAI", "Ollama", "RAG"]
     },
     {
       icon: Cloud,
